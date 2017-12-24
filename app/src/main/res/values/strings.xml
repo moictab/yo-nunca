@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Yo Nunca</string>
+    <string name="start_game">Empezar partida</string>
+    <string name="add_new">Añadir nuevo</string>
+    <string name="next">Siguiente</string>
+    <string name="not_available">No hay nada disponible</string>
+    <string name="send">Enviar</string>
+    <string name="i_never_have">Yo nunca he…</string>
+    <string name="name">Nombre</string>
+    <string name="accept">Aceptar</string>
+    <string name="input_username">Introduce tu nombre de usuario:</string>
+    <string name="sent">Enviado</string>
+    <string name="mandatory_field">Este campo es obligatorio</string>
+    <string name="max_characters_error">El máximo de caracteres permitidos es 128</string>
+    <string name="introduction_text">Es necesario que introduzcas tu nombre para empezar. Se utilizará para identificar a los autores de los Yo Nunca, tanto para bien como para mal. No se valen ni nombres propios ni racismo exacerbado. Por lo demás, esto es para jugar nosotros en el Mestizo o donde sea, así que da rienda suelta a tu imaginación.</string>
+    <string name="statistics">Estadísticas</string>
+    <string name="i_never_have_been">A mí nunca me han…</string>
+    <string name="i_never_myself">Yo nunca me he…</string>
+    <string name="changes">Cambios en la versión</string>
+</resources>
